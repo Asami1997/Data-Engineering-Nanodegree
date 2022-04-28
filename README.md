@@ -59,7 +59,7 @@ Learn to schedule, automate, and monitor data pipelines using Apache Airflow. Le
 * Data Pipelines with Airflow
 
 
-## Final Project - DEND Capstone Project
+## Capstone Project
 Combine all the skills throughout the program to build your own data engineering portfolio project.
 
 ### Project
