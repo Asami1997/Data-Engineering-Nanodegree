@@ -61,6 +61,3 @@ Learn to schedule, automate, and monitor data pipelines using Apache Airflow. Le
 
 ## Capstone Project
 Combine all the skills throughout the program to build your own data engineering portfolio project.
-
-### Project
-* Data Engineer Capstone
